@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adviceapp/static/css/main.b6645214.css",
+    "main.js": "/adviceapp/static/js/main.546c85eb.js",
+    "static/media/76.jpg": "/adviceapp/static/media/76.846f702680ba669b2fce.jpg",
+    "index.html": "/adviceapp/index.html",
+    "main.b6645214.css.map": "/adviceapp/static/css/main.b6645214.css.map",
+    "main.546c85eb.js.map": "/adviceapp/static/js/main.546c85eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6645214.css",
+    "static/js/main.546c85eb.js"
+  ]
+}
